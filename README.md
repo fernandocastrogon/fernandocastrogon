@@ -35,6 +35,9 @@ Sou um **Analista de Dados** apaixonado por transformar dados em insights acion�
 ### Principais Linguagens
 ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocastrogon&layout=compact&theme=radical)
 
+## Gráfico de Contribuição 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fernandocastrogon&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ## 📊 **Meus Projetos**
@@ -110,6 +113,8 @@ I am a **Data Analyst** passionate about transforming data into actionable insig
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocastrogon&layout=compact&theme=radical)
 
+### Contributions
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fernandocastrogon&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ## 📊 **My Projects**
