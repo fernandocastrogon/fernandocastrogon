@@ -115,7 +115,6 @@ I am a **Data Analyst** passionate about transforming data into actionable insig
 
 ### Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fernandocastrogon&bg_color=0d1117&color=ffffff&line=5BCDEC&point=f5f5f5&area=true&hide_border=true)
-
 ---
 
 ## 📊 **My Projects**
