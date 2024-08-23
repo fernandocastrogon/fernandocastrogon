@@ -5,7 +5,7 @@
 
 ![Visualizações de Perfil](https://komarev.com/ghpvc/?username=fernandocastrogon&color=blue)  
 ![Seguidores no GitHub](https://img.shields.io/github/followers/fernandocastrogon?label=Seguir&style=social)  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-fernandocastrogon-blue?logo=linkedin&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fernandocastrogon-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fernandocastrogon)  
 
 ## 👋 Bem-vindo ao Meu Perfil no GitHub!
 
@@ -58,9 +58,9 @@ Sou um **Analista de Dados** apaixonado por transformar dados em insights acion�
 
 ## 📜 **Certificações**
 
-- ![Power BI](https://img.shields.io/badge/Power_BI-Expert-3776AB?style=flat&logo=powerbi&logoColor=white) **Certificação em Power BI**
-- ![SQL](https://img.shields.io/badge/SQL-Proficient-4479A1?style=flat&logo=postgresql&logoColor=white) **Certificação em SQL**
-- ![Responsive Design](https://img.shields.io/badge/Responsive_Design-Expert-4CAF50?style=flat&logo=html5&logoColor=white) **Certificação em Design Responsivo**
+- [![Power BI](https://img.shields.io/badge/Power_BI-Expert-3776AB?style=flat&logo=powerbi&logoColor=white )](https://cursos.alura.com.br/degree/certificate/bc721b64-7829-4aae-b3bb-0ad1b77a8dff?lang) **Certificação em Power BI**
+- [![SQL](https://img.shields.io/badge/SQL-Proficient-4479A1?style=flat&logo=postgresql&logoColor=white)](https://cursos.alura.com.br/degree/certificate/7d06cac1-9719-4c69-bb2e-e74da8b539f0?lang) **Certificação em SQL**
+
 
 ---
 
@@ -83,7 +83,7 @@ Sou um **Analista de Dados** apaixonado por transformar dados em insights acion�
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fernandocastrogon&color=blue)  
 ![GitHub Followers](https://img.shields.io/github/followers/fernandocastrogon?label=Follow&style=social)  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-fernandocastrogon-blue?logo=linkedin&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fernandocastrogon-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fernandocastrogon)  
 
 ## 👋 Welcome to My GitHub Profile!
 
@@ -135,5 +135,5 @@ I am a **Data Analyst** passionate about transforming data into actionable insig
 
 ## 📜 **Certifications**
 
-- ![Power BI](https://img.shields.io/badge/Power_BI-Expert-3776AB?style=flat&logo=powerbi&logoColor=white) **Power BI Certification**
-- ![SQL](https://img.shields.io/badge/SQL-Proficient-4479A1?style=flat&logo=postgresql&logoColor=white) **SQL Certification**
+- [![Power BI](https://img.shields.io/badge/Power_BI-Expert-3776AB?style=flat&logo=powerbi&logoColor=white )](https://cursos.alura.com.br/degree/certificate/bc721b64-7829-4aae-b3bb-0ad1b77a8dff?lang) **Power BI Certification**
+- [![SQL](https://img.shields.io/badge/SQL-Proficient-4479A1?style=flat&logo=postgresql&logoColor=white)](https://cursos.alura.com.br/degree/certificate/7d06cac1-9719-4c69-bb2e-e74da8b539f0?lang) **SQL Certification**
